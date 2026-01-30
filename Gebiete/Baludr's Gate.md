@@ -1,6 +1,6 @@
 > [!infobox]
 > # Name
-> ![[Baldur's_gate_coat_of_arms-5e.jpg|cover hsmall]]
+> ![[Karims Bibliothek/zz_einfuegungen/Bilder/Baldur's_gate_coat_of_arms-5e.jpg|cover hsmall]]
 > ###### Geographie
 > |  |   |
 > | ---- | ---- |
@@ -12,6 +12,7 @@
 > | ---- | ---- |
 > | Völker | Gößtenteils Menschen |
 > | Religion | Gond, Tymora, Umberlee, Helm, Lathander, Kult des toten Baums |
+> |Population|12,400 in 1488DR, 42,103 in 1372 DR, 86,000–115,000 in 1358 DR
 >  ###### Politik
 > |  |  |
 > | ---- | ---- |
@@ -20,7 +21,7 @@
 >  ###### Historie
 > |  |  |
 > | ---- | ---- |
-> |1488DR|[[Ep.5 Aufbruch der Drachen]]|
+> |1488DR|[[repo-wiki/Story/Ep.5 Aufbruch der Drachen]]|
 
 
  #ort 

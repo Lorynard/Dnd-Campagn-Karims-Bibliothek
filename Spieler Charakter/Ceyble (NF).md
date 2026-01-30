@@ -1,2 +1,2 @@
 **(Wikieintrag noch in bearbeitung)**
-#story 
+#Spieler 

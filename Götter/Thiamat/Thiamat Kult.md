@@ -7,16 +7,4 @@
 > | Volk | Drachenblüter, Menschen, Kobolde |
 > | Enstehung | ca1450 |
 > |Ausrichtung|Rechtschafend-Böse|
-> |Gottheit| [[Karims Bibliothek/Götter/Thiamat/Thiamat]]
-> ###### Fähigkeiten
-> |||
-> | ---- | ---- |
-> |Sicht|  |
-> |||
-> ##### Generelle Sats
-> |  |  |
-> | ---- | ---- |
-> |||
-> |Heimatland||
-> | Familie |  |
-> |Historie||
+> |Gottheit| [[repo-wiki/Götter/Thiamat/Thiamat|Thiamat]]|

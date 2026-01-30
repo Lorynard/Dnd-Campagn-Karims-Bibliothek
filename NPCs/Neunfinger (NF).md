@@ -21,5 +21,8 @@
 > | Familie |  |
 > |Historie|erstmals Ep-5.|
 
-
+**(Wikieintrag noch in bearbeitung)**
+## Persönlichkeit
+## Beziehungen 
+## Historie
 #npc 

@@ -21,6 +21,8 @@
 > | Familie |  |
 > |Historie|erstmals [[Ep.1 Anfänge]]|
 
+
+**(Wikieintrag noch in bearbeitung)**
 ## Persönlichkeit
 ## Beziehungen 
 ## Historie
