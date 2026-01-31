@@ -23,14 +23,20 @@
 
 
 **(Wikieintrag noch in bearbeitung)**
-## Persönlichkeit
+## Persönlichkei
+---
 Ihre Suche nach Abenteuer bringt sie immer in heikle Situationen. Jede neue Einflüsse, je unbedeutend diese auch anscheinen, hat für Olivia große Bedeutung. Sie schätzt die kleinen Dinge im leben, ist aber auch anfällig sich in große Probleme zu verfangen.
 ## Beziehungen 
+---
 #### Außerhalb Baldurs Gate
-Seit ihrer Lebenszeit war [[repo-wiki/NPCs/Orumir Barmmels  (NF)]] als persönliche Leibwache beordert worden. 
+###### Orumir
+Seit ihrer Lebenszeit war [[Orumir Barmmels  (NF)]] als persönliche Leibwache beordert worden. In den Jahren außerhalb der sicheren Mauern [[Baludr's Gate]] ist Orumir stehts ein getreuer Begleiter, immer wachsam gegenüber den Feinden ihrer Prinzessin, zugleich auch ein guter Freund dem sie sich anvertrauen kann.
+###### Anna und Brammen
+
 #### Familie
-[[repo-wiki/NPCs/Neunfinger (NF)]] ist ihr leiblicher Bruder.
+[[Neunfinger (NF)]] ist ihr leiblicher Bruder.
 ## Historie
+---
 Olivia erlebt Ihre Jugend zumeist isoliert. Die zunehmende Risiken als offizielle Thronfolgerin zwangen Olivias Vater "**Bencevin "Flammen Faust "Duncan**" Vorsichtsmaßnahmen vorzukehren. Nach dem Versterben Olivias Mutter war der Umfeld der jungen Prinzessin durchgetaktet und kontrolliert.
 Mit den zunehmenden politischen Spannungen interner Regierung nahmen auch zunehmend Attentatsversuche auf ihr zu. 
 #npc 

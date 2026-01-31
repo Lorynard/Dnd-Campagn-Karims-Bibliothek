@@ -1,5 +1,5 @@
 ```zoommap
-image: zz_einfuegungen/Maps/Campagne Tyranai der Drachen.png
+image: zz_einfuegungen/Maps/CampagneTyranai der Drachen.png
 # markers is optional; defaults to <image>.markers.json
 # markers: Assets/Map.jpg.markers.json
 

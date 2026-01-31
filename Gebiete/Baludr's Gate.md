@@ -1,6 +1,6 @@
 > [!infobox]
 > # Name
-> ![[Karims Bibliothek/zz_einfuegungen/Bilder/Baldur's_gate_coat_of_arms-5e.jpg|cover hsmall]]
+> ![[repo-wiki/zz_einfuegungen/Bilder/Baldur's_gate_coat_of_arms-5e.jpg|cover hsmall]]
 > ###### Geographie
 > |  |   |
 > | ---- | ---- |
